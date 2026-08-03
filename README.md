@@ -42,17 +42,6 @@
 | 📣 [**Social Publishing Automation Studio**](https://github.com/officialkrunalkumar/Automated-Instagram-Poster) | Flask + n8n pipeline that runs Instagram publishing hands-free |
 | 🌌 [**This Portfolio**](https://github.com/officialkrunalkumar/Krunalkumar) | Pure HTML/CSS/JS, zero build steps — responsive overflow nav, runtime partials, animated 404 |
 
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=officialkrunalkumar&show_icons=true&hide_border=true&bg_color=0B1120&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialkrunalkumar&layout=compact&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=CBD5E1" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=officialkrunalkumar&hide_border=true&background=0B1120&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Streak" />
-
-</div>
-
 ## 🎓 Want to work with me?
 
 > **I mentor interns across AI/ML, software development, DevOps, front-end, back-end, cybersecurity, and research.**
