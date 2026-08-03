@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://krunalkumar.vercel.app">
+  <img src="https://krunalkumar.vercel.app/assets/images/og-image.jpg" alt="Krunalkumar Shah — Researcher, Engineer & Cybersecurity Professional" width="100%" />
+</a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=32&duration=2800&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krunalkumar+Shah+%F0%9F%91%8B;Researcher+%C2%B7+Engineer;Cybersecurity+Professional;Automation+%26+AI+Workflow+Builder;Mentor+%26+Coach" alt="Krunalkumar Shah" />
 
 <p>
